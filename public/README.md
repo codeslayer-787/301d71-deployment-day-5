@@ -26,7 +26,7 @@ Number and name of feature: ________________________________
 
 Estimate of time needed to complete: _____
 
-Start time: _____
+Start time: 3:30pm (CST)
 
 Finish time: _____
 
